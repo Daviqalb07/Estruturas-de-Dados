@@ -2,9 +2,10 @@
 #ifdef __SORT_H__
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
-void insertionSort(vector<int> &array);
+void merge(int *v, int p, int q, int r);
+void mergeSort(int *v, int p, int r);
+void insertionSort(int *v, int size);
 
 #endif
