@@ -2,7 +2,7 @@
 #include <math.h>
 #include "../sort.h"
 using namespace std;
-//g++ main.cpp MergeSort.cpp -o main
+
 void merge(int *v, int p, int q, int r){
     int n1 = q - p + 1;
     int n2 = r - q;
