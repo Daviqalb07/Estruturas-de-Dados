@@ -7,3 +7,4 @@ Repositório para as implementações da disciplina Estruturas de Dados - 2020.2
 
 ## Algoritmos de ordenação
 - [Insertion Sort](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Sort/InsertionSort)
+- [Merge Sort](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Sort/MergeSort)
