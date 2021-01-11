@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "queue.h"
-/*
-cd Estruturas/Queue
-gcc main.c queue.c -o main
-./"main.exe"
-*/
+
 int main(void){
     Queue fila = constructQueue();
     int option = -1;
