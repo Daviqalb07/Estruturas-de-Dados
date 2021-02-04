@@ -4,6 +4,7 @@ Repositório para as implementações da disciplina Estruturas de Dados - 2020.2
 ## Estruturas
 - [Fila (Queue)](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Estruturas/Queue)
 - [Pilha (Stack)](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Estruturas/Stack)
+- [Lista Encadeada](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Estruturas/Lista%20Encadeada)
 
 ## Algoritmos de busca
 - [Busca Sequencial](https://github.com/Daviqalb07/Estruturas-de-Dados/tree/master/Busca/BuscaSequencial)
